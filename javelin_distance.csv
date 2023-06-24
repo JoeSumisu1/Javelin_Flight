@@ -1,0 +1,130 @@
+Medal,Code,Athlete,Distance,Year,City,Gender
+Gold,SWE,eric lemming,54.83,1908,London,Men
+Silver,NOR,arne halse,50.57,1908,London,Men
+Bronze,SWE,otto nilsson,47.11,1908,London,Men
+Gold,SWE,eric lemming,60.64,1912,Stockholm,Men
+Silver,FIN,juho julius saaristo,58.66,1912,Stockholm,Men
+Bronze,HUN,mor kovacs,55.5,1912,Stockholm,Men
+Gold,FIN,jonni myyrä,65.78,1920,Antwerp,Men
+Silver,FIN,urho pellervo peltonen,63.605,1920,Antwerp,Men
+Bronze,FIN,paavo johansson,63.095,1920,Antwerp,Men
+Gold,FIN,jonni myyrä,62.96,1924,Paris,Men
+Silver,SWE,gunnar lindström,60.92,1924,Paris,Men
+Bronze,USA,eugene oberst,58.35,1924,Paris,Men
+Gold,SWE,erik h. lundqvist,66.6,1928,Amsterdam,Men
+Silver,HUN,bela szepes-strauch,65.26,1928,Amsterdam,Men
+Bronze,NOR,olav sunde,63.97,1928,Amsterdam,Men
+Gold,FIN,matti henrik jarvinen,72.71,1932,Los Angeles,Men
+Silver,FIN,matti kalervo sippala,69.8,1932,Los Angeles,Men
+Bronze,FIN,eino penttila,68.7,1932,Los Angeles,Men
+Gold,USA,mildred didrikson,43.69,1932,Los Angeles,Women
+Silver,GER,ellen braumüller,43.5,1932,Los Angeles,Women
+Bronze,GER,mathilde (tilly) fleischer,43.01,1932,Los Angeles,Women
+Gold,GER,gerhard stöck,71.84,1936,Berlin,Men
+Silver,FIN,yrjo jouko nikkanen,70.77,1936,Berlin,Men
+Bronze,FIN,kaarlo kalervo toivonen,70.72,1936,Berlin,Men
+Gold,GER,mathilde (tilly) fleischer,45.18,1936,Berlin,Women
+Silver,GER,luise krüger,43.29,1936,Berlin,Women
+Bronze,POL,marja jadwiga kwasniewska-maleszewska,41.8,1936,Berlin,Women
+Gold,FIN,kaj tapio rautavaara,69.77,1948,London,Men
+Silver,USA,stephen andrew seymour,67.56,1948,London,Men
+Bronze,HUN,jozsef varszegi,67.03,1948,London,Men
+Gold,AUT,hermine (herma) bauma,45.57,1948,London,Women
+Silver,FIN,kaisa parviainen,43.79,1948,London,Women
+Bronze,DEN,lily marie louise carlstedt-kelsby,42.08,1948,London,Women
+Gold,USA,cyrus c. jr. young,73.78,1952,Helsinki,Men
+Silver,USA,william preston miller,72.46,1952,Helsinki,Men
+Bronze,FIN,toivo armas hyytiäinen,71.89,1952,Helsinki,Men
+Gold,TCH,dana ingrova-zatopkova,50.47,1952,Helsinki,Women
+Silver,URS,aleksandra chudina,50.01,1952,Helsinki,Women
+Bronze,URS,elena gorchakova,49.76,1952,Helsinki,Women
+Gold,NOR,egil danielsen,85.71,1956,Melbourne,Men
+Silver,POL,janusz sidlo,79.98,1956,Melbourne,Men
+Bronze,URS,viktor tsybulenko,79.5,1956,Melbourne,Men
+Gold,URS,inese yaunzeme,53.86,1956,Melbourne,Women
+Silver,CHI,marlene ahrens,50.38,1956,Melbourne,Women
+Bronze,URS,nadezhda konyaeva,50.28,1956,Melbourne,Women
+Gold,URS,viktor tsybulenko,84.64,1960,Rome,Men
+Silver,GER,walter krüger,79.36,1960,Rome,Men
+Bronze,HUN,gergely kulcsar,78.57,1960,Rome,Men
+Gold,URS,elvira ozolina,55.98,1960,Rome,Women
+Silver,TCH,dana ingrova-zatopkova,53.78,1960,Rome,Women
+Bronze,URS,birutė kalėdienė,53.45,1960,Rome,Women
+Gold,FIN,pauli lauri nevala,82.66,1964,Tokyo,Men
+Silver,HUN,gergely kulcsar,82.32,1964,Tokyo,Men
+Bronze,URS,yanis lusis,80.57,1964,Tokyo,Men
+Gold,ROU,mihaela penes,60.54,1964,Tokyo,Women
+Silver,HUN,marta antal-rudas,58.27,1964,Tokyo,Women
+Bronze,URS,elena gorchakova,57.06,1964,Tokyo,Women
+Gold,URS,yanis lusis,90.1,1968,Mexico City,Men
+Silver,FIN,jorma viljo palaavi kinnunen,88.58,1968,Mexico City,Men
+Bronze,HUN,gergely kulcsar,87.06,1968,Mexico City,Men
+Gold,HUN,angela nemeth-ranky,60.36,1968,Mexico City,Women
+Silver,ROU,mihaela penes,59.92,1968,Mexico City,Women
+Bronze,AUT,eva janko-egger,58.04,1968,Mexico City,Women
+Gold,FRG,klaus wolfermann,90.48,1972,Munich,Men
+Silver,URS,yanis lusis,90.46,1972,Munich,Men
+Bronze,USA,william david schmidt,84.42,1972,Munich,Men
+Gold,GDR,ruth fuchs,63.88,1972,Munich,Women
+Silver,GDR,jaqueline todten-hein,62.54,1972,Munich,Women
+Bronze,USA,kathryn joan schmidt,59.94,1972,Munich,Women
+Gold,HUN,miklos nemeth,94.58,1976,Montreal,Men
+Silver,FIN,hannu juhani siitonen,87.92,1976,Montreal,Men
+Bronze,ROU,gheorghe megelea,87.16,1976,Montreal,Men
+Gold,GDR,ruth fuchs,65.94,1976,Montreal,Women
+Silver,FRG,marion becker-steiner,64.7,1976,Montreal,Women
+Bronze,USA,kathryn joan schmidt,63.96,1976,Montreal,Women
+Gold,URS,dainis kula,91.2,1980,Moscow,Men
+Silver,URS,aleksandr makarov,89.64,1980,Moscow,Men
+Bronze,GDR,wolfgang hanisch,86.72,1980,Moscow,Men
+Gold,CUB,maria colon,68.4,1980,Moscow,Women
+Silver,URS,saida gunba,67.76,1980,Moscow,Women
+Bronze,GDR,ute hommola,66.56,1980,Moscow,Women
+Gold,FIN,arto harkonen,86.76,1984,Los Angeles,Men
+Silver,GBR,david ottley,85.74,1984,Los Angeles,Men
+Bronze,SWE,kenth eldebrink,83.72,1984,Los Angeles,Men
+Gold,GBR,teresa sanderson,69.56,1984,Los Angeles,Women
+Silver,FIN,kristiina lillak,69,1984,Los Angeles,Women
+Bronze,GBR,fatima whitbread,67.14,1984,Los Angeles,Women
+Gold,FIN,tapio korjus,84.28,1988,Seoul,Men
+Silver,TCH,jan železný,84.12,1988,Seoul,Men
+Bronze,FIN,seppo henrik raty,83.26,1988,Seoul,Men
+Gold,GDR,petra felke-meier,74.68,1988,Seoul,Women
+Silver,GBR,fatima whitbread,70.32,1988,Seoul,Women
+Bronze,GDR,beate koch,67.3,1988,Seoul,Women
+Gold,TCH,jan železný,89.66,1992,Barcelona,Men
+Silver,FIN,seppo henrik raty,86.6,1992,Barcelona,Men
+Bronze,GBR,steve backley,83.38,1992,Barcelona,Men
+Gold,GER,silke renk,68.34,1992,Barcelona,Women
+Silver,EUN,natalia shikolenko,68.26,1992,Barcelona,Women
+Bronze,GER,karen forkel,66.86,1992,Barcelona,Women
+Gold,CZE,jan železný,88.16,1996,Atlanta,Men
+Silver,GBR,steve backley,87.44,1996,Atlanta,Men
+Bronze,FIN,seppo henrik raty,86.98,1996,Atlanta,Men
+Gold,FIN,heli orvokki rantanen,67.94,1996,Atlanta,Women
+Silver,AUS,louise mcpaul,65.54,1996,Atlanta,Women
+Bronze,NOR,trine hattestad,64.98,1996,Atlanta,Women
+Gold,CZE,jan železný,90.17,2000,Sydney,Men
+Silver,GBR,steve backley,89.85,2000,Sydney,Men
+Bronze,RUS,sergey makarov,88.67,2000,Sydney,Men
+Gold,NOR,trine hattestad,68.91,2000,Sydney,Women
+Silver,GRE,mirella maniani-tzelili,67.51,2000,Sydney,Women
+Bronze,CUB,osleidys menendez,66.18,2000,Sydney,Women
+Gold,NOR,andreas thorkildsen,86.5,2004,Athens,Men
+Silver,LAT,vadims vasilevskis,84.95,2004,Athens,Men
+Bronze,RUS,sergey makarov,84.84,2004,Athens,Men
+Gold,CUB,osleidys menendez,71.53,2004,Athens,Women
+Silver,GER,steffi nerius,65.82,2004,Athens,Women
+Bronze,GRE,mirella maniani-tzelili,64.29,2004,Athens,Women
+Gold,NOR,andreas thorkildsen,90.57,2008,Beijing,Men
+Silver,LAT,ainars kovals,86.64,2008,Beijing,Men
+Bronze,FIN,tero pitkamaki,86.16,2008,Beijing,Men
+Gold,CZE,barbora spotakova,71.42,2008,Beijing,Women
+Silver,GER,christina obergfoll,66.13,2008,Beijing,Women
+Bronze,GBR,goldie sayers,65.75,2008,Beijing,Women
+Gold,TTO,keshorn walcott,84.58,2012,London,Men
+Silver,FIN,antti ruuskanen,84.12,2012,London,Men
+Bronze,CZE,vitezslav vesely,83.34,2012,London,Men
+Gold,CZE,barbora spotakova,69.55,2012,London,Women
+Silver,GER,christina obergfoll,65.16,2012,London,Women
+Bronze,GER,linda stahl,64.91,2012,London,Women
